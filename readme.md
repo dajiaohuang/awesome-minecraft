@@ -23,7 +23,6 @@
   - [Technology](#technology)
   - [Farming And Food](#farming-and-food)
   - [Energy](#energy)
-  - [Magic](#magic)
   - [Utilities](#utilities)
   - [General](#general)
   - [Exploration](#exploration)
@@ -202,6 +201,7 @@
 - [Sildur](https://sildurs-shaders.github.io/) - Shader packs even implementing Minecraft 1.16's built-in API.
 - [Potato](https://rre36.com/potato-shader) - A very lightweight shader pack for older or restrained PCs.
 - [ESBE 2G](https://github.com/McbeEringi/esbe-2g/releases) - A shader pack for Bedrock Edition.
+- [White Wolf Shader](https://github.com/NotSnipc/WhiteWolfShaders) - Shader pack for Bedrock Edition focused on improving your gameplay experience.
 
 ## Web Applications
 
